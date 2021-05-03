@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 ruby RUBY_VERSION
 
-gem "rake", "12.0.0"
+gem "rake", "12.3.3"
 gem "puma", "3.9.1"
 gem "jekyll", "3.5.2"
 gem "rack-jekyll", "0.5.0"
